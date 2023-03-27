@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    height: 100%;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
